@@ -1,0 +1,3154 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="news">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>mix:versionable</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>cd036d11-1a88-4f1a-b301-bc4cb6e740da</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-translated-folder</sv:value>
+    <sv:value>new-document</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>2e84223c-2ad2-49af-ac9a-1f2586c93bee</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>en</sv:value>
+  </sv:property>
+  <sv:node sv:name="2014">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippotranslation:translated</sv:value>
+      <sv:value>mix:versionable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cb3fc66f-2122-48c2-867f-bea1db796448</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-translated-folder</sv:value>
+      <sv:value>new-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>930ab517-c9fe-4441-a510-fc4b9255412f</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>en</sv:value>
+    </sv:property>
+    <sv:node sv:name="dollar-goes-down">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d6872f71-75af-4990-ba94-9f78c562daab</sv:value>
+      </sv:property>
+      <sv:node sv:name="dollar-goes-down">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>762cf013-91c1-4674-9863-97b4802a7794</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/dollar-goes-down/dollar-goes-down[3]</sv:value>
+          <sv:value>news/2014/dollar-goes-down/dollar-goes-down[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:20:24.209Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T20:25:39.504Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>25057deb-af76-4548-9ade-72a0fc20a338</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-28T00:20:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Dollar goes down</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Dollar has started to go down and this may cause following&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Increase in oil prices&lt;/li&gt; 
+&lt;li&gt;Increase in gold prices&lt;/li&gt; 
+&lt;li&gt;A new base currency&lt;/li&gt; &lt;/ul&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Dollar goes down</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="dollar-goes-down">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>e74d01c0-d05f-4930-be87-d41e9836092b</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/dollar-goes-down/dollar-goes-down[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:20:24.209Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T20:25:51.202Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>25057deb-af76-4548-9ade-72a0fc20a338</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-28T00:20:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Dollar goes down</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Dollar has started to go down and this may cause following&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Increase in oil prices&lt;/li&gt; 
+&lt;li&gt;Increase in gold prices&lt;/li&gt; 
+&lt;li&gt;A new base currency&lt;/li&gt; &lt;/ul&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="dollar-goes-down">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a54fb607-af68-4549-9d82-f44fb63b763c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/dollar-goes-down/dollar-goes-down[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:20:24.209Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T20:25:51.202Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2014-12-29T20:26:16.112Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>25057deb-af76-4548-9ade-72a0fc20a338</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-28T00:20:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Dollar goes down</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Dollar has started to go down and this may cause following&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Increase in oil prices&lt;/li&gt; 
+&lt;li&gt;Increase in gold prices&lt;/li&gt; 
+&lt;li&gt;A new base currency&lt;/li&gt; &lt;/ul&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="dollar-goes-up">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>f4086080-d228-4ea6-a001-8da0407e0a4b</sv:value>
+      </sv:property>
+      <sv:node sv:name="dollar-goes-up">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>4b507729-3fb2-4796-8699-573576da1c05</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/dollar-goes-up/dollar-goes-up[3]</sv:value>
+          <sv:value>news/2014/dollar-goes-up/dollar-goes-up[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:22:47.047Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:22:47.278Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>92a978d5-a440-45eb-ad19-1fcfa84deeb3</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-28T00:23:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Dollar goes up</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Dollar has started to go up today and this may cause following&lt;/p&gt; 
+&lt;p&gt;Better trade in US&lt;/p&gt; 
+&lt;p&gt;Stable oil price&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Dollar goes up</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="dollar-goes-up">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>e5d40fa5-32bb-428f-9713-642690d5f606</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/dollar-goes-up/dollar-goes-up[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:22:47.047Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:24:03.829Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>92a978d5-a440-45eb-ad19-1fcfa84deeb3</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-28T00:23:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Dollar goes up</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Dollar has started to go up today and this may cause following&lt;/p&gt; 
+&lt;p&gt;Better trade in US&lt;/p&gt; 
+&lt;p&gt;Stable oil price&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="dollar-goes-up">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>52cdbf4c-a055-4b35-bc4a-9fb919ef9e63</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/dollar-goes-up/dollar-goes-up[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:22:47.047Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:24:03.829Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2014-12-28T00:24:10.176Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>92a978d5-a440-45eb-ad19-1fcfa84deeb3</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-28T00:23:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Dollar goes up</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Dollar has started to go up today and this may cause following&lt;/p&gt; 
+&lt;p&gt;Better trade in US&lt;/p&gt; 
+&lt;p&gt;Stable oil price&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="money-news-a">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>b34af7b1-3a54-412c-819d-362eb3c3dfc3</sv:value>
+      </sv:property>
+      <sv:node sv:name="money-news-a">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>96ac69b4-0669-4a9f-9716-1f2271aabbdf</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-a/money-news-a[2]</sv:value>
+          <sv:value>news/2014/money-news-a/money-news-a[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:27:39.571Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:36:54.360Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>1d37ea68-5b34-4814-9b0b-e2fb1565e6ec</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:27:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news a</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Money news a</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="money-news-a">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>07967bad-d253-46a8-883b-05ed820e111f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-a/money-news-a[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:27:39.571Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:04.346Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>1d37ea68-5b34-4814-9b0b-e2fb1565e6ec</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:27:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news a</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="money-news-a">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a6369081-37bb-4eb7-95bd-641999d20685</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-a/money-news-a[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:27:39.571Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:04.346Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:07.624Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>1d37ea68-5b34-4814-9b0b-e2fb1565e6ec</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:27:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news a</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="money-news-b">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>e95ba919-431b-4d59-90cc-84075f31d34c</sv:value>
+      </sv:property>
+      <sv:node sv:name="money-news-b">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>29cd8e5f-7a83-4fed-b884-511671a0a1ea</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-b/money-news-b[2]</sv:value>
+          <sv:value>news/2014/money-news-b/money-news-b[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:28:31.201Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-30T01:02:17.017Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>1523b515-3023-41a1-a060-082b5d902d19</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:28:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news b</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Money news b</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="money-news-b">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>60eac3d3-d832-4a08-8808-072281bc4e4e</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-b/money-news-b[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:28:31.201Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-30T01:02:25.590Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>1523b515-3023-41a1-a060-082b5d902d19</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:28:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news b</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="money-news-b">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>71a39e28-0efd-4d58-9dd3-a1dcf29d0537</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-b/money-news-b[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:28:31.201Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-30T01:02:25.590Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2014-12-30T01:02:30.010Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>1523b515-3023-41a1-a060-082b5d902d19</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:28:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news b</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;B&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="money-news-c">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>27444cb0-c404-4c19-b973-f6de8135029f</sv:value>
+      </sv:property>
+      <sv:node sv:name="money-news-c">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>636c5a2d-e51c-4eb6-8e58-794c75db9d12</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-c/money-news-c[2]</sv:value>
+          <sv:value>news/2014/money-news-c/money-news-c[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:20.979Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:21.151Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>86c7fda8-0fc4-45ff-91cb-9e200ed86ca4</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:29:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news c</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;C&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Money news c</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="money-news-c">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>03e80266-d85e-4a56-a8f2-e1d415e251c6</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-c/money-news-c[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:20.979Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:40.016Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>86c7fda8-0fc4-45ff-91cb-9e200ed86ca4</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:29:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news c</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;C&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="money-news-c">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>faa00602-20e9-4065-a362-d9af577ba91e</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-c/money-news-c[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:20.979Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:40.016Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:43.157Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>86c7fda8-0fc4-45ff-91cb-9e200ed86ca4</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:29:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news c</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;C&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="money-news-d">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>bd7c5f48-82a4-41cd-b1ad-fa604f08b44d</sv:value>
+      </sv:property>
+      <sv:node sv:name="money-news-d">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>4e8decd6-be49-4975-b9e9-3c17b99f57e0</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-d/money-news-d[3]</sv:value>
+          <sv:value>news/2014/money-news-d/money-news-d[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:56.141Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:56.279Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>852e174f-c097-4f24-b154-7fcfc576cc57</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:30:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news d</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;D&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Money news d</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="money-news-d">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>f87220e9-6175-42c0-a1c6-6fc7053ac881</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-d/money-news-d[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:56.141Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:30:08.078Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>852e174f-c097-4f24-b154-7fcfc576cc57</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:30:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news d</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;D&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="money-news-d">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>d63de3f5-f24a-484e-8580-b08f6092170e</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/money-news-d/money-news-d[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:29:56.141Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:30:08.078Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2014-12-29T21:30:11.008Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>852e174f-c097-4f24-b154-7fcfc576cc57</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T21:30:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Money news d</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Money news 
+&lt;strong&gt;D&lt;/strong&gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="default-news">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>f06d8eea-9aab-457f-9ee8-5ac22d86a06e</sv:value>
+      </sv:property>
+      <sv:node sv:name="default-news">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>05a175f9-7f0e-4436-961f-ecbbdcd5b0ba</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/default-news/default-news[3]</sv:value>
+          <sv:value>news/2014/default-news/default-news[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:00:15.508Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:00:16.540Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>5d39e026-57f7-4b6a-ad43-262e5caf8b6d</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T23:00:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Default News</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&lt;strong&gt;This is HIPPO news portal&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Please select a valid news link to see in detail.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Default News</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="default-news">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>40fffa76-2026-45eb-a63a-cb1aaf89730d</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/default-news/default-news[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:00:15.508Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:01:36.972Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>5d39e026-57f7-4b6a-ad43-262e5caf8b6d</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T23:00:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Default News</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&lt;strong&gt;This is HIPPO news portal&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Please select a valid news link to see in detail.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="default-news">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>0971b0f5-acc0-4231-ac6a-d111a4a82cbc</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/default-news/default-news[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:00:15.508Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:01:36.972Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:01:41.450Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>5d39e026-57f7-4b6a-ad43-262e5caf8b6d</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T23:00:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Default News</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&lt;strong&gt;This is HIPPO news portal&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Please select a valid news link to see in detail.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="any-news">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c51ad4f5-0284-4393-a77e-dab9632fd534</sv:value>
+      </sv:property>
+      <sv:node sv:name="any-news">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>ef8a6746-435a-4c66-b469-b1596058f409</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/any-news/any-news[2]</sv:value>
+          <sv:value>news/2014/any-news/any-news[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:01:57.869Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:01:58.134Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>84ed4a2a-1083-4c7c-a96b-1c507f7c763b</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T23:02:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Any News</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&lt;strong&gt;This is HIPPO news portal&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;This will be replaced for any default news.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Any News</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="any-news">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a55081e9-13bd-4e98-9c16-f7a37ea277da</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/any-news/any-news[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:01:57.869Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:02:52.053Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>84ed4a2a-1083-4c7c-a96b-1c507f7c763b</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T23:02:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Any News</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&lt;strong&gt;This is HIPPO news portal&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;This will be replaced for any default news.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="any-news">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>ab2bc38b-fbd1-4077-8a8a-18660b5302ba</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/any-news/any-news[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:01:57.869Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:02:52.053Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2014-12-29T23:02:55.965Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>84ed4a2a-1083-4c7c-a96b-1c507f7c763b</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2014-12-29T23:02:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Any News</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&lt;strong&gt;This is HIPPO news portal&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;This will be replaced for any default news.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="sports">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:versionable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>beb3a649-7859-4df9-9c02-75fbc103550d</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>64d35fe6-a82c-4f4b-a03a-48e994305d3b</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gold-for-sunil">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>c103d56f-8d00-4971-a406-c71cf03ef7b5</sv:value>
+        </sv:property>
+        <sv:node sv:name="gold-for-sunil">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>949ad861-263a-4b30-b68e-bbb69d924b4f</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/sports/gold-for-sunil/gold-for-sunil[2]</sv:value>
+            <sv:value>news/2014/sports/gold-for-sunil/gold-for-sunil[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:38:11.185Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:38:11.639Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>7f8fdf5a-e407-49e0-8b29-7a71742401f4</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2014-12-29T23:38:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Sunil has got a gold medal in Olympic</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;Sunil has got a gold medal in Olympic in his category of wrestling.&lt;/p&gt; 
+&lt;p&gt;This is first Olympic Gold medal in wrestling and in Rio Olympic.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Gold for Sunil</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="gold-for-sunil">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>045ee55a-2dd2-49c0-98b3-3eee8eb6a658</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/sports/gold-for-sunil/gold-for-sunil[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:38:11.185Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:39:46.658Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>7f8fdf5a-e407-49e0-8b29-7a71742401f4</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2014-12-29T23:38:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Sunil has got a gold medal in Olympic</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;Sunil has got a gold medal in Olympic in his category of wrestling.&lt;/p&gt; 
+&lt;p&gt;This is first Olympic Gold medal in wrestling and in Rio Olympic.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="gold-for-sunil">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>2d59bdcc-02ad-44a9-ad48-ca360ded891a</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/sports/gold-for-sunil/gold-for-sunil[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:38:11.185Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:39:46.658Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:39:52.859Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>7f8fdf5a-e407-49e0-8b29-7a71742401f4</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2014-12-29T23:38:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Sunil has got a gold medal in Olympic</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;Sunil has got a gold medal in Olympic in his category of wrestling.&lt;/p&gt; 
+&lt;p&gt;This is first Olympic Gold medal in wrestling and in Rio Olympic.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="business">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:versionable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>e5dcf011-5099-4952-b40b-f99038c0f435</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>3bf716d3-d801-431d-985e-1903e23b9db9</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="rupee-goes-up">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>85ff0e2d-0e82-401f-a0e0-7c1cacac8950</sv:value>
+        </sv:property>
+        <sv:node sv:name="rupee-goes-up">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>73095d37-f298-4e54-bb35-c9caab72b8b8</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/business/rupee-goes-up/rupee-goes-up[3]</sv:value>
+            <sv:value>news/2014/business/rupee-goes-up/rupee-goes-up[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:40:13.754Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:40:14.140Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>ada5f691-bf03-4378-acec-e163d672f3fe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2014-12-29T23:40:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Rupee goes up</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;After a long time finally rupee has started to go up.&lt;/p&gt; 
+&lt;p&gt;This will bring business in mood and remitence in line again.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Rupee goes up</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="rupee-goes-up">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>bfada433-8b8d-4783-8146-eefac0d18534</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/business/rupee-goes-up/rupee-goes-up[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:40:13.754Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:41:08.172Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>ada5f691-bf03-4378-acec-e163d672f3fe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2014-12-29T23:40:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Rupee goes up</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;After a long time finally rupee has started to go up.&lt;/p&gt; 
+&lt;p&gt;This will bring business in mood and remitence in line again.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="rupee-goes-up">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>60ea3619-b403-4a28-b4e8-f8b97545680f</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/business/rupee-goes-up/rupee-goes-up[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:40:13.754Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:41:08.172Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2014-12-29T23:41:14.475Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>ada5f691-bf03-4378-acec-e163d672f3fe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2014-12-29T23:40:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Rupee goes up</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;After a long time finally rupee has started to go up.&lt;/p&gt; 
+&lt;p&gt;This will bring business in mood and remitence in line again.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="greece-economy-merkel-rules-out-more-debt-relief">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a1db2c5c-befa-428f-9014-24889775ce2b</sv:value>
+        </sv:property>
+        <sv:node sv:name="greece-economy-merkel-rules-out-more-debt-relief">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>7ffd0245-2e99-4cae-8fa8-2b860697ffb5</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/business/greece-economy-merkel-rules-out-more-debt-relief/greece-economy-merkel-rules-out-more-debt-relief[2]</sv:value>
+            <sv:value>news/2014/business/greece-economy-merkel-rules-out-more-debt-relief/greece-economy-merkel-rules-out-more-debt-relief[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-01-31T17:54:15.279Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-01-31T17:54:17.336Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>0f459df2-99f2-41ef-99d5-309c212464e2</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2015-01-31T17:54:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Greece economy: Merkel rules out more debt relief</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align:start"&gt;German Chancellor Angela Merkel has ruled out cancelling any of Greece&amp;#39;s debt, saying banks and creditors have already made substantial cuts.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Mrs Merkel told the Die Welt newspaper she still wanted Greece to stay in the eurozone.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Greece&amp;#39;s left-wing Syriza party won last weekend&amp;#39;s election with a pledge to have half the debt written off.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Its new finance minister has refused to work with the &amp;quot;troika&amp;quot; of global institutions overseeing Greek debt.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;The troika - the European Commission, European Central Bank and International Monetary Fund - had agreed a &amp;euro;240bn (&amp;pound;179bn; $270bn) bailout with the previous Greek government.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Finance Minister Yanis Varoufakis has already begun to roll back the austerity measures the creditors had demanded as part of the deal.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Meanwhile, EU economic and financial affairs commissioner Pierre Moscovici told the BBC&amp;#39;s Hardtalk that Greece had to honour its previous commitments, although he said he wanted Greece to remain in the eurozone.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Blackmail&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mrs Merkel told the Hamburger Abendblatt: &amp;quot;I do not envisage fresh debt cancellation.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;She said: &amp;quot;There has already been voluntary debt forgiveness by private creditors, banks have already slashed billions from Greece&amp;#39;s debt.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Greece still has a debt of &amp;euro;315bn - about 175% of gross domestic product - despite some creditors writing down debts in a renegotiation in 2012.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Greece economy: Merkel rules out more debt relief</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="greece-economy-merkel-rules-out-more-debt-relief">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>8cfe2825-1a84-4675-beba-c36f7ae29c95</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/business/greece-economy-merkel-rules-out-more-debt-relief/greece-economy-merkel-rules-out-more-debt-relief[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-01-31T17:54:15.279Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-01-31T17:54:52.570Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>0f459df2-99f2-41ef-99d5-309c212464e2</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2015-01-31T17:54:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Greece economy: Merkel rules out more debt relief</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align:start"&gt;German Chancellor Angela Merkel has ruled out cancelling any of Greece&amp;#39;s debt, saying banks and creditors have already made substantial cuts.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Mrs Merkel told the Die Welt newspaper she still wanted Greece to stay in the eurozone.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Greece&amp;#39;s left-wing Syriza party won last weekend&amp;#39;s election with a pledge to have half the debt written off.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Its new finance minister has refused to work with the &amp;quot;troika&amp;quot; of global institutions overseeing Greek debt.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;The troika - the European Commission, European Central Bank and International Monetary Fund - had agreed a &amp;euro;240bn (&amp;pound;179bn; $270bn) bailout with the previous Greek government.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Finance Minister Yanis Varoufakis has already begun to roll back the austerity measures the creditors had demanded as part of the deal.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Meanwhile, EU economic and financial affairs commissioner Pierre Moscovici told the BBC&amp;#39;s Hardtalk that Greece had to honour its previous commitments, although he said he wanted Greece to remain in the eurozone.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Blackmail&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mrs Merkel told the Hamburger Abendblatt: &amp;quot;I do not envisage fresh debt cancellation.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;She said: &amp;quot;There has already been voluntary debt forgiveness by private creditors, banks have already slashed billions from Greece&amp;#39;s debt.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Greece still has a debt of &amp;euro;315bn - about 175% of gross domestic product - despite some creditors writing down debts in a renegotiation in 2012.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="greece-economy-merkel-rules-out-more-debt-relief">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>myhippoproject:news</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>b6a74f7c-77c2-4b9b-b2f6-463f52286e30</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/business/greece-economy-merkel-rules-out-more-debt-relief/greece-economy-merkel-rules-out-more-debt-relief[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-01-31T17:54:15.279Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-01-31T17:54:52.570Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-01-31T17:54:59.319Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>0f459df2-99f2-41ef-99d5-309c212464e2</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:date" sv:type="Date">
+            <sv:value>2015-01-31T17:54:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="myhippoproject:title" sv:type="String">
+            <sv:value>Greece economy: Merkel rules out more debt relief</sv:value>
+          </sv:property>
+          <sv:node sv:name="myhippoproject:news">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align:start"&gt;German Chancellor Angela Merkel has ruled out cancelling any of Greece&amp;#39;s debt, saying banks and creditors have already made substantial cuts.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Mrs Merkel told the Die Welt newspaper she still wanted Greece to stay in the eurozone.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Greece&amp;#39;s left-wing Syriza party won last weekend&amp;#39;s election with a pledge to have half the debt written off.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Its new finance minister has refused to work with the &amp;quot;troika&amp;quot; of global institutions overseeing Greek debt.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;The troika - the European Commission, European Central Bank and International Monetary Fund - had agreed a &amp;euro;240bn (&amp;pound;179bn; $270bn) bailout with the previous Greek government.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Finance Minister Yanis Varoufakis has already begun to roll back the austerity measures the creditors had demanded as part of the deal.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Meanwhile, EU economic and financial affairs commissioner Pierre Moscovici told the BBC&amp;#39;s Hardtalk that Greece had to honour its previous commitments, although he said he wanted Greece to remain in the eurozone.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Blackmail&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mrs Merkel told the Hamburger Abendblatt: &amp;quot;I do not envisage fresh debt cancellation.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;She said: &amp;quot;There has already been voluntary debt forgiveness by private creditors, banks have already slashed billions from Greece&amp;#39;s debt.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Greece still has a debt of &amp;euro;315bn - about 175% of gross domestic product - despite some creditors writing down debts in a renegotiation in 2012.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="social-trading-the-new-way-to-invest">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>922c5273-40f1-439f-a893-09f6f6e8436a</sv:value>
+      </sv:property>
+      <sv:node sv:name="social-trading-the-new-way-to-invest">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>1a9b58eb-459e-4e57-a0fa-a3bf6685a33f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/social-trading-the-new-way-to-invest/social-trading-the-new-way-to-invest[3]</sv:value>
+          <sv:value>news/2014/social-trading-the-new-way-to-invest/social-trading-the-new-way-to-invest[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-06T11:57:01.987Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-06T11:57:02.230Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>18686510-e841-43c8-b938-de693f8fead2</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-06T11:57:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Social Trading: The New Way to Invest</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:left"&gt;In FX trading, there have typically been only two options for managing a portfolio; manage it yourself or let someone else do it. But now there is a third option -social trading.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;Social trading means, finding top-notch traders, copying their trades and compounding a great portfolio of FX traders that can generate returns for you.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;But how would you start? What type of traders should you follow? Tough questions, right? In this article we will answer those important questions.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Short Term vs Long Term&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;The first thing one must do before deciding to build a portfolio comprised of FX traders is to recognize the various types traders out there. Though there are countless investment strategies, each successful trader has a unique one which makes him or her shine, brings those extra profits and beats the market. Yet if we were to divide those FX traders into two distinct groups it would be short term vs. long term traders: short term traders usually hold their position for up to 48 hours while long term traders may hold a position for two weeks and sometimes far longer. Presuming that both types of strategy, short and long term, can lead to success (and they can), what are the pros and cons of each?&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Short-Term Traders: Pros and Cons&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;First, the pros: nshort term traders are quite numerous. They tend to be more &amp;ldquo;mechanical&amp;rdquo; following strict rules as to how much time they spend in the market and how many pips they want to gain (which can be clearly seen when viewing their trading history). Because they trade in high frequency and execute many trades within a short period of time, you can quickly tell when they&amp;rsquo;ve lost the &amp;ldquo;touch&amp;rdquo; and stop copying them.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;And the cons? These kinds of traders are vulnerable to rapid price movements. Market volatility can hit them hard because when markets move quickly it tends to hit their stop losses, even if the trend recovers swiftly thereafter.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Long-term Traders: Pros and Cons&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;One important &amp;ldquo;pro&amp;rdquo; of long term traders is that they are more immune to market volatility, especially if they count on trades that last more than several weeks. Although many rely on technical analysis they also consider long-term fundamentals (e.g. interest rates, growth and employment, among others). This means, perhaps, a more balanced approach and a less volatile return.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;And the cons? By the nature of their strategy, it may take a while before you know if a long-term trader was wrong on a trade, while in the meantime you could have followed another trader with better results.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Social Trading: The New Way to Invest</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="social-trading-the-new-way-to-invest">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>768438a6-f2b5-45ed-995b-3cf6c4c7f8da</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/social-trading-the-new-way-to-invest/social-trading-the-new-way-to-invest[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-06T11:57:01.987Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-06T11:57:27.522Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>18686510-e841-43c8-b938-de693f8fead2</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-06T11:57:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Social Trading: The New Way to Invest</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:left"&gt;In FX trading, there have typically been only two options for managing a portfolio; manage it yourself or let someone else do it. But now there is a third option -social trading.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;Social trading means, finding top-notch traders, copying their trades and compounding a great portfolio of FX traders that can generate returns for you.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;But how would you start? What type of traders should you follow? Tough questions, right? In this article we will answer those important questions.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Short Term vs Long Term&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;The first thing one must do before deciding to build a portfolio comprised of FX traders is to recognize the various types traders out there. Though there are countless investment strategies, each successful trader has a unique one which makes him or her shine, brings those extra profits and beats the market. Yet if we were to divide those FX traders into two distinct groups it would be short term vs. long term traders: short term traders usually hold their position for up to 48 hours while long term traders may hold a position for two weeks and sometimes far longer. Presuming that both types of strategy, short and long term, can lead to success (and they can), what are the pros and cons of each?&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Short-Term Traders: Pros and Cons&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;First, the pros: nshort term traders are quite numerous. They tend to be more &amp;ldquo;mechanical&amp;rdquo; following strict rules as to how much time they spend in the market and how many pips they want to gain (which can be clearly seen when viewing their trading history). Because they trade in high frequency and execute many trades within a short period of time, you can quickly tell when they&amp;rsquo;ve lost the &amp;ldquo;touch&amp;rdquo; and stop copying them.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;And the cons? These kinds of traders are vulnerable to rapid price movements. Market volatility can hit them hard because when markets move quickly it tends to hit their stop losses, even if the trend recovers swiftly thereafter.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Long-term Traders: Pros and Cons&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;One important &amp;ldquo;pro&amp;rdquo; of long term traders is that they are more immune to market volatility, especially if they count on trades that last more than several weeks. Although many rely on technical analysis they also consider long-term fundamentals (e.g. interest rates, growth and employment, among others). This means, perhaps, a more balanced approach and a less volatile return.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;And the cons? By the nature of their strategy, it may take a while before you know if a long-term trader was wrong on a trade, while in the meantime you could have followed another trader with better results.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="social-trading-the-new-way-to-invest">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>5e78023f-c522-44c4-b5b8-a0c89d3c33eb</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/social-trading-the-new-way-to-invest/social-trading-the-new-way-to-invest[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-06T11:57:01.987Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-06T11:57:27.522Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2015-01-06T11:57:31.427Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>18686510-e841-43c8-b938-de693f8fead2</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-06T11:57:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Social Trading: The New Way to Invest</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:left"&gt;In FX trading, there have typically been only two options for managing a portfolio; manage it yourself or let someone else do it. But now there is a third option -social trading.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;Social trading means, finding top-notch traders, copying their trades and compounding a great portfolio of FX traders that can generate returns for you.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;But how would you start? What type of traders should you follow? Tough questions, right? In this article we will answer those important questions.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Short Term vs Long Term&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;The first thing one must do before deciding to build a portfolio comprised of FX traders is to recognize the various types traders out there. Though there are countless investment strategies, each successful trader has a unique one which makes him or her shine, brings those extra profits and beats the market. Yet if we were to divide those FX traders into two distinct groups it would be short term vs. long term traders: short term traders usually hold their position for up to 48 hours while long term traders may hold a position for two weeks and sometimes far longer. Presuming that both types of strategy, short and long term, can lead to success (and they can), what are the pros and cons of each?&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Short-Term Traders: Pros and Cons&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;First, the pros: nshort term traders are quite numerous. They tend to be more &amp;ldquo;mechanical&amp;rdquo; following strict rules as to how much time they spend in the market and how many pips they want to gain (which can be clearly seen when viewing their trading history). Because they trade in high frequency and execute many trades within a short period of time, you can quickly tell when they&amp;rsquo;ve lost the &amp;ldquo;touch&amp;rdquo; and stop copying them.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;And the cons? These kinds of traders are vulnerable to rapid price movements. Market volatility can hit them hard because when markets move quickly it tends to hit their stop losses, even if the trend recovers swiftly thereafter.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;&lt;strong&gt;Long-term Traders: Pros and Cons&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;One important &amp;ldquo;pro&amp;rdquo; of long term traders is that they are more immune to market volatility, especially if they count on trades that last more than several weeks. Although many rely on technical analysis they also consider long-term fundamentals (e.g. interest rates, growth and employment, among others). This means, perhaps, a more balanced approach and a less volatile return.&lt;/p&gt; 
+&lt;p style="text-align:left"&gt;And the cons? By the nature of their strategy, it may take a while before you know if a long-term trader was wrong on a trade, while in the meantime you could have followed another trader with better results.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="serena-williams-i-threw-up-half-way-through-australian-open-final">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>31cf63a4-3fb1-4b75-815b-b10490b40fd0</sv:value>
+      </sv:property>
+      <sv:node sv:name="serena-williams-i-threw-up-half-way-through-australian-open-final">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>2c75d825-be94-4156-8d90-1138ec6d8c46</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/serena-williams-i-threw-up-half-way-through-australian-open-final/serena-williams-i-threw-up-half-way-through-australian-open-final[2]</sv:value>
+          <sv:value>news/2014/serena-williams-i-threw-up-half-way-through-australian-open-final/serena-williams-i-threw-up-half-way-through-australian-open-final[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:16:37.171Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:20:10.424Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>aea4056f-4902-4fa0-8e3a-7346bfb78bc7</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T16:16:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Serena Williams: I threw up half way through Australian Open final.</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:start"&gt;The American superstar, who claimed her 19th grand slam title in Saturday&amp;#39;s final, hadn&amp;#39;t looked in trouble having broken Sharapova&amp;#39;s serve in the opening game of the match - but when rain caused a brief delay for the stadium roof to be closed during the opening set, Serena admitted that she ran to the toilet to be sick.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;I ended up throwing up when I left the court,&amp;quot; she told Eurosport expert Mats Wilander.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;It was probably the best thing that could have happened to me... I think it got everything out of me. I just had to hurl.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;After that I felt better because my chest was free - it took a minute but I felt a little better.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Serena Williams: I threw up half-way through Australian Open final</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="serena-williams-i-threw-up-half-way-through-australian-open-final">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>40946e54-ee9a-4b1e-8d2e-9422cd969003</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/serena-williams-i-threw-up-half-way-through-australian-open-final/serena-williams-i-threw-up-half-way-through-australian-open-final[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:16:37.171Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:21:18.923Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>aea4056f-4902-4fa0-8e3a-7346bfb78bc7</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T16:16:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Serena Williams: I threw up half way through Australian Open final.</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:start"&gt;The American superstar, who claimed her 19th grand slam title in Saturday&amp;#39;s final, hadn&amp;#39;t looked in trouble having broken Sharapova&amp;#39;s serve in the opening game of the match - but when rain caused a brief delay for the stadium roof to be closed during the opening set, Serena admitted that she ran to the toilet to be sick.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;I ended up throwing up when I left the court,&amp;quot; she told Eurosport expert Mats Wilander.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;It was probably the best thing that could have happened to me... I think it got everything out of me. I just had to hurl.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;After that I felt better because my chest was free - it took a minute but I felt a little better.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="serena-williams-i-threw-up-half-way-through-australian-open-final">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a0804fb2-ba0e-413f-946f-910d1a31b833</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/serena-williams-i-threw-up-half-way-through-australian-open-final/serena-williams-i-threw-up-half-way-through-australian-open-final[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:16:37.171Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:21:18.923Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:21:41.664Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>aea4056f-4902-4fa0-8e3a-7346bfb78bc7</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T16:16:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Serena Williams: I threw up half way through Australian Open final.</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:start"&gt;The American superstar, who claimed her 19th grand slam title in Saturday&amp;#39;s final, hadn&amp;#39;t looked in trouble having broken Sharapova&amp;#39;s serve in the opening game of the match - but when rain caused a brief delay for the stadium roof to be closed during the opening set, Serena admitted that she ran to the toilet to be sick.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;I ended up throwing up when I left the court,&amp;quot; she told Eurosport expert Mats Wilander.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;It was probably the best thing that could have happened to me... I think it got everything out of me. I just had to hurl.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;After that I felt better because my chest was free - it took a minute but I felt a little better.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c9ab785c-89f4-461c-9a7c-1905b172fb0a</sv:value>
+      </sv:property>
+      <sv:node sv:name="gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>c4a5a67b-b059-46da-83ea-3724d6b56141</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme/gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme[2]</sv:value>
+          <sv:value>news/2014/gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme/gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:18:13.569Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:18:13.673Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>7bd35f0a-f7c1-4a2c-9107-2490333a2399</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T16:18:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Gary Lineker sent £1.3m bill over alleged tax avoidance scheme</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Gary Lineker has received a tax bill for &amp;pound;1.3m after investing in a number of controversial schemes being targeted by HM Revenue &amp;amp; Customs (HMRC), it has been claimed.&lt;/p&gt; 
+&lt;p&gt;Lineker, 54, has been given 90 days to pay back the cash, according to reports.&lt;/p&gt; 
+&lt;p&gt;Lineker invested in five schemes run by Ingenious, a film and media investment company which HMRC has accused of being a tax avoidance scheme.&lt;/p&gt; 
+&lt;p&gt;Ingenious denies the allegations and its status will be decided in a series of tax tribunal cases later this year.&lt;/p&gt; 
+&lt;p&gt;In the meantime, Lineker, along with several other high profile footballers, other sports stars and celebrities are understood to have been sent bills by HMRC for tax the Government says is owed over a number of years.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Gary Lineker sent £1.3m bill over alleged tax avoidance scheme</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>6bb48d12-d041-4fbf-a009-d262c902cd3b</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme/gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:18:13.569Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:18:41.961Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>7bd35f0a-f7c1-4a2c-9107-2490333a2399</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T16:18:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Gary Lineker sent £1.3m bill over alleged tax avoidance scheme</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Gary Lineker has received a tax bill for &amp;pound;1.3m after investing in a number of controversial schemes being targeted by HM Revenue &amp;amp; Customs (HMRC), it has been claimed.&lt;/p&gt; 
+&lt;p&gt;Lineker, 54, has been given 90 days to pay back the cash, according to reports.&lt;/p&gt; 
+&lt;p&gt;Lineker invested in five schemes run by Ingenious, a film and media investment company which HMRC has accused of being a tax avoidance scheme.&lt;/p&gt; 
+&lt;p&gt;Ingenious denies the allegations and its status will be decided in a series of tax tribunal cases later this year.&lt;/p&gt; 
+&lt;p&gt;In the meantime, Lineker, along with several other high profile footballers, other sports stars and celebrities are understood to have been sent bills by HMRC for tax the Government says is owed over a number of years.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>8adc0db6-e077-4555-be90-2327ba1e388f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme/gary-lineker-sent-gbp1.3m-bill-over-alleged-tax-avoidance-scheme[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:18:13.569Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:18:41.961Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2015-01-31T16:18:47.909Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>7bd35f0a-f7c1-4a2c-9107-2490333a2399</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T16:18:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>Gary Lineker sent £1.3m bill over alleged tax avoidance scheme</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;Gary Lineker has received a tax bill for &amp;pound;1.3m after investing in a number of controversial schemes being targeted by HM Revenue &amp;amp; Customs (HMRC), it has been claimed.&lt;/p&gt; 
+&lt;p&gt;Lineker, 54, has been given 90 days to pay back the cash, according to reports.&lt;/p&gt; 
+&lt;p&gt;Lineker invested in five schemes run by Ingenious, a film and media investment company which HMRC has accused of being a tax avoidance scheme.&lt;/p&gt; 
+&lt;p&gt;Ingenious denies the allegations and its status will be decided in a series of tax tribunal cases later this year.&lt;/p&gt; 
+&lt;p&gt;In the meantime, Lineker, along with several other high profile footballers, other sports stars and celebrities are understood to have been sent bills by HMRC for tax the Government says is owed over a number of years.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="tasers-for-all-front-line-officers---police-federation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>773e09ce-c88e-47f2-bf17-d48f6541425a</sv:value>
+      </sv:property>
+      <sv:node sv:name="tasers-for-all-front-line-officers---police-federation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>ff80f207-647a-4c26-abe8-b8ae67472bf9</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/tasers-for-all-front-line-officers---police-federation/tasers-for-all-front-line-officers---police-federation[3]</sv:value>
+          <sv:value>news/2014/tasers-for-all-front-line-officers---police-federation/tasers-for-all-front-line-officers---police-federation[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T17:56:26.155Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T17:56:26.330Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>241fb615-71d0-4eb1-8ef2-0cc8d8fd6f4c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T17:56:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>'Tasers for all front-line officers' - Police Federation</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:start"&gt;All front-line police in England and Wales should be offered Tasers in light of the increased terrorism threat, the head of the Police Federation says.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Steve White said the devices would help protect against &amp;quot;dangerous people&amp;quot; who could be preparing to attack officers.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;We&amp;#39;ve got to show our officers that we&amp;#39;re taking the threat seriously,&amp;quot; he told Radio 4&amp;#39;s Today.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Christopher Salmon, a Welsh police and crime commissioner, said the move would be a mistake.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Salmon, Dyfed-Powys police and crime commissioner, said: &amp;quot;Routine arming with Tasers would be a mistake and counter to the traditions of British policing.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Commander Neil Basu, the Association of Chief Police Officers policing lead for Tasers, said he would support a conditional roll out.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Basu said: &amp;quot;Whilst I would support an extended roll out, this must be informed by appropriate assessments of existing threat and risk, the high standards of training must not be diluted and they should only be carried by those who volunteer to do so.&amp;quot;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Respond to threat&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr White&amp;nbsp;
+&lt;a href="http://www.theguardian.com/uk-news/2015/jan/30/frontline-police-tasers-terror-threat-federation-leader" style="color: rgb(74, 113, 148); line-height: 16px; text-decoration: none; font-weight: bold;"&gt;told The Guardian&lt;/a&gt;&amp;nbsp;that terrorists seeking to attract attention could attack at any time, anywhere in the UK.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;The federation is to vote on the proposal to offer all frontline officers Taser training next month. Some officers may choose not to carry one, it says.&lt;/p&gt; 
+&lt;p&gt;&lt;a class="hidden" href="http://www.bbc.co.uk/news/uk-31071922#story_continues_2" style="color: rgb(74, 113, 148); text-decoration: none; font-weight: bold; position: absolute; top: -5000px; left: -5000px;"&gt;Continue reading the main story&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;&amp;ldquo;Start Quote&lt;/h2&gt; 
+&lt;p&gt;The alternative is to have officers out there without anything at all - we have to do something&amp;rdquo;&lt;/p&gt; 
+&lt;p&gt;Steve WhitePolice Federation&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;It has been shown that Tasers could keep officers and the public safe, Mr White told Today.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;And he said police officers should be able to &amp;quot;respond to the current threat environment&amp;quot;.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;We&amp;#39;ve got to make sure that we give them every opportunity to respond to the threat,&amp;quot; he said.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;Because it&amp;#39;s not just their personal safety; it&amp;#39;s the safety of the public as well.&amp;quot;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Many tools&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;He told the programme he was making the call after seeing the &amp;quot;usefulness&amp;quot; of Tasers.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr White&amp;nbsp;
+&lt;a href="http://www.express.co.uk/news/uk/404384/Taser-gun-demand-for-all-police-on-the-beat" style="color: rgb(74, 113, 148); line-height: 16px; text-decoration: none; font-weight: bold;"&gt;made a similar call&lt;/a&gt;&amp;nbsp;when vice-chair of the federation, following the murder of Fusilier Lee Rigby.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Basu added: &amp;quot;Taser is one of many tools and tactics available to help manage threat and risk which is continually assessed.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;The variety of force demographics and the threats faced don&amp;#39;t always make it the first or most viable solution.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>'Tasers for all front-line officers' - Police Federation</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="tasers-for-all-front-line-officers---police-federation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>bafda1cb-41ef-4cc1-90b8-e862ee50a074</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/tasers-for-all-front-line-officers---police-federation/tasers-for-all-front-line-officers---police-federation[3]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T17:56:26.155Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T17:56:56.463Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>241fb615-71d0-4eb1-8ef2-0cc8d8fd6f4c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T17:56:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>'Tasers for all front-line officers' - Police Federation</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:start"&gt;All front-line police in England and Wales should be offered Tasers in light of the increased terrorism threat, the head of the Police Federation says.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Steve White said the devices would help protect against &amp;quot;dangerous people&amp;quot; who could be preparing to attack officers.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;We&amp;#39;ve got to show our officers that we&amp;#39;re taking the threat seriously,&amp;quot; he told Radio 4&amp;#39;s Today.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Christopher Salmon, a Welsh police and crime commissioner, said the move would be a mistake.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Salmon, Dyfed-Powys police and crime commissioner, said: &amp;quot;Routine arming with Tasers would be a mistake and counter to the traditions of British policing.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Commander Neil Basu, the Association of Chief Police Officers policing lead for Tasers, said he would support a conditional roll out.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Basu said: &amp;quot;Whilst I would support an extended roll out, this must be informed by appropriate assessments of existing threat and risk, the high standards of training must not be diluted and they should only be carried by those who volunteer to do so.&amp;quot;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Respond to threat&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr White&amp;nbsp;
+&lt;a href="http://www.theguardian.com/uk-news/2015/jan/30/frontline-police-tasers-terror-threat-federation-leader" style="color: rgb(74, 113, 148); line-height: 16px; text-decoration: none; font-weight: bold;"&gt;told The Guardian&lt;/a&gt;&amp;nbsp;that terrorists seeking to attract attention could attack at any time, anywhere in the UK.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;The federation is to vote on the proposal to offer all frontline officers Taser training next month. Some officers may choose not to carry one, it says.&lt;/p&gt; 
+&lt;p&gt;&lt;a class="hidden" href="http://www.bbc.co.uk/news/uk-31071922#story_continues_2" style="color: rgb(74, 113, 148); text-decoration: none; font-weight: bold; position: absolute; top: -5000px; left: -5000px;"&gt;Continue reading the main story&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;&amp;ldquo;Start Quote&lt;/h2&gt; 
+&lt;p&gt;The alternative is to have officers out there without anything at all - we have to do something&amp;rdquo;&lt;/p&gt; 
+&lt;p&gt;Steve WhitePolice Federation&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;It has been shown that Tasers could keep officers and the public safe, Mr White told Today.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;And he said police officers should be able to &amp;quot;respond to the current threat environment&amp;quot;.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;We&amp;#39;ve got to make sure that we give them every opportunity to respond to the threat,&amp;quot; he said.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;Because it&amp;#39;s not just their personal safety; it&amp;#39;s the safety of the public as well.&amp;quot;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Many tools&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;He told the programme he was making the call after seeing the &amp;quot;usefulness&amp;quot; of Tasers.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr White&amp;nbsp;
+&lt;a href="http://www.express.co.uk/news/uk/404384/Taser-gun-demand-for-all-police-on-the-beat" style="color: rgb(74, 113, 148); line-height: 16px; text-decoration: none; font-weight: bold;"&gt;made a similar call&lt;/a&gt;&amp;nbsp;when vice-chair of the federation, following the murder of Fusilier Lee Rigby.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Basu added: &amp;quot;Taser is one of many tools and tactics available to help manage threat and risk which is continually assessed.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;The variety of force demographics and the threats faced don&amp;#39;t always make it the first or most viable solution.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="tasers-for-all-front-line-officers---police-federation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>myhippoproject:news</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a3dd36a2-a265-4685-8e9f-5b805c8f4748</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>news/2014/tasers-for-all-front-line-officers---police-federation/tasers-for-all-front-line-officers---police-federation[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2015-01-31T17:56:26.155Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2015-01-31T17:56:56.463Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2015-01-31T17:57:00.300Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>241fb615-71d0-4eb1-8ef2-0cc8d8fd6f4c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:date" sv:type="Date">
+          <sv:value>2015-01-31T17:56:00.000Z</sv:value>
+        </sv:property>
+        <sv:property sv:name="myhippoproject:title" sv:type="String">
+          <sv:value>'Tasers for all front-line officers' - Police Federation</sv:value>
+        </sv:property>
+        <sv:node sv:name="myhippoproject:news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p style="text-align:start"&gt;All front-line police in England and Wales should be offered Tasers in light of the increased terrorism threat, the head of the Police Federation says.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Steve White said the devices would help protect against &amp;quot;dangerous people&amp;quot; who could be preparing to attack officers.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;We&amp;#39;ve got to show our officers that we&amp;#39;re taking the threat seriously,&amp;quot; he told Radio 4&amp;#39;s Today.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;But Christopher Salmon, a Welsh police and crime commissioner, said the move would be a mistake.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Salmon, Dyfed-Powys police and crime commissioner, said: &amp;quot;Routine arming with Tasers would be a mistake and counter to the traditions of British policing.&amp;quot;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Commander Neil Basu, the Association of Chief Police Officers policing lead for Tasers, said he would support a conditional roll out.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Basu said: &amp;quot;Whilst I would support an extended roll out, this must be informed by appropriate assessments of existing threat and risk, the high standards of training must not be diluted and they should only be carried by those who volunteer to do so.&amp;quot;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Respond to threat&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr White&amp;nbsp;
+&lt;a href="http://www.theguardian.com/uk-news/2015/jan/30/frontline-police-tasers-terror-threat-federation-leader" style="color: rgb(74, 113, 148); line-height: 16px; text-decoration: none; font-weight: bold;"&gt;told The Guardian&lt;/a&gt;&amp;nbsp;that terrorists seeking to attract attention could attack at any time, anywhere in the UK.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;The federation is to vote on the proposal to offer all frontline officers Taser training next month. Some officers may choose not to carry one, it says.&lt;/p&gt; 
+&lt;p&gt;&lt;a class="hidden" href="http://www.bbc.co.uk/news/uk-31071922#story_continues_2" style="color: rgb(74, 113, 148); text-decoration: none; font-weight: bold; position: absolute; top: -5000px; left: -5000px;"&gt;Continue reading the main story&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;&amp;ldquo;Start Quote&lt;/h2&gt; 
+&lt;p&gt;The alternative is to have officers out there without anything at all - we have to do something&amp;rdquo;&lt;/p&gt; 
+&lt;p&gt;Steve WhitePolice Federation&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;It has been shown that Tasers could keep officers and the public safe, Mr White told Today.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;And he said police officers should be able to &amp;quot;respond to the current threat environment&amp;quot;.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;We&amp;#39;ve got to make sure that we give them every opportunity to respond to the threat,&amp;quot; he said.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;Because it&amp;#39;s not just their personal safety; it&amp;#39;s the safety of the public as well.&amp;quot;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&amp;#39;Many tools&amp;#39;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;He told the programme he was making the call after seeing the &amp;quot;usefulness&amp;quot; of Tasers.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr White&amp;nbsp;
+&lt;a href="http://www.express.co.uk/news/uk/404384/Taser-gun-demand-for-all-police-on-the-beat" style="color: rgb(74, 113, 148); line-height: 16px; text-decoration: none; font-weight: bold;"&gt;made a similar call&lt;/a&gt;&amp;nbsp;when vice-chair of the federation, following the murder of Fusilier Lee Rigby.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;Mr Basu added: &amp;quot;Taser is one of many tools and tactics available to help manage threat and risk which is continually assessed.&lt;/p&gt; 
+&lt;p style="text-align:start"&gt;&amp;quot;The variety of force demographics and the threats faced don&amp;#39;t always make it the first or most viable solution.&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>
